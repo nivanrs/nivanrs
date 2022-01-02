@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>My name is Nivan Ramadhan Sugoantoro</br>
+<br>My name is Nivan Ramadhan Sugiantoro</br>
 <br>I'am business student from Institut Teknologi Bandung, formerly i am geophysics student in Universitas Gadjah Mada</br>
 
 <!--
