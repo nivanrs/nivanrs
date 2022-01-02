@@ -1,4 +1,6 @@
 ### Hi there 👋
+<br>My name is Nivan Ramadhan Sugoantoro</br>
+<br>I'am business student from Institut Teknologi Bandung, formerly i am geophysics student in Universitas Gadjah mada</br>
 
 <!--
 **nivanrs/nivanrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
