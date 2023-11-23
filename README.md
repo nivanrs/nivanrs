@@ -1,6 +1,6 @@
-### Hi there 👋
-<br>My name is Nivan Ramadhan Sugiantoro</br>
-<br>I'am business student from Institut Teknologi Bandung, formerly i am geophysics student in Universitas Gadjah Mada</br>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Nivan Ramadhan Sugiantoro</br>
+<br>I'am data analyst with a background in Business 💼 and Geophysics🌏 </br>
+<br>🏫 I got my MBA degree from School of Business and management at Institut Teknologi Bandung (SBM ITB), formerly i got my bachelor degree in science in geophysics at Universitas Gadjah Mada (UGM)</br>
 
 <!--
 **nivanrs/nivanrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
