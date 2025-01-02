@@ -1,9 +1,12 @@
+<div align="center">
+    
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Nivan Ramadhan Sugiantoro</br>
 <br>I'am data analyst with a background in Business 💼 and Geophysics🌏 </br>
 <br>🏫 I got my MBA degree from the School of Business and Management at Institut Teknologi Bandung (SBM ITB), formerly I got my bachelor's degree in science in Geophysics at Universitas Gadjah Mada (UGM)</br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=aquaregias&name=false&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
+</div>
 <!--
 **nivanrs/nivanrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
